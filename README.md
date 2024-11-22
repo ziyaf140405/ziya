@@ -17,5 +17,7 @@ test-account
  
 added table
 |s no.|assignment|link|
+
+|-----|----------|-----|
 |-----|----------|-----|
 |1|basic python program|[assignment1](https://github.com/ziyaf140405/ziya/blob/7220f29807763384f1cd7c755a78cd64c0f13065/assignment_01.ipynb)|
